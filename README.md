@@ -35,7 +35,7 @@ The project uses the [Engineering Placements Prediction dataset](https://www.kag
    - Start Apache and MySQL from the XAMPP control panel.
    - Open phpMyAdmin (`http://localhost/phpmyadmin`).
    - Create a new database with name`placementpred`.
-   - Import the SQL file named (user_details.sql)[https://github.com/jaideepmanat/HireVision/blob/master/user_details.sql].
+   - Import the SQL file named [user_details.sql](https://github.com/jaideepmanat/HireVision/blob/master/user_details.sql).
 
 4. **Run the Application**:
    - Access the application via your browser at `http://localhost/placementpred`.
